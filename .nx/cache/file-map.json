@@ -3,10 +3,12 @@
   "nxVersion": "17.2.8",
   "deps": {
     "@angular/animations": "^17.0.0",
+    "@angular/cdk": "~17.1.0",
     "@angular/common": "^17.0.0",
     "@angular/compiler": "^17.0.0",
     "@angular/core": "^17.0.0",
     "@angular/forms": "^17.0.0",
+    "@angular/material": "~17.1.0",
     "@angular/platform-browser": "^17.0.0",
     "@angular/platform-browser-dynamic": "^17.0.0",
     "@angular/router": "^17.0.0",
@@ -67,17 +69,19 @@
         },
         {
           "file": "package-lock.json",
-          "hash": "18115325921778245413"
+          "hash": "2316142733025299885"
         },
         {
           "file": "package.json",
-          "hash": "9155592364204418764",
+          "hash": "1753497221678640257",
           "deps": [
             "npm:@angular/animations",
+            "npm:@angular/cdk",
             "npm:@angular/common",
             "npm:@angular/compiler",
             "npm:@angular/core",
             "npm:@angular/forms",
+            "npm:@angular/material",
             "npm:@angular/platform-browser",
             "npm:@angular/platform-browser-dynamic",
             "npm:@angular/router",
@@ -105,7 +109,7 @@
         },
         {
           "file": "project.json",
-          "hash": "8510591011828874665"
+          "hash": "6818487881537776042"
         },
         {
           "file": "src/app/app.component.html",
@@ -133,10 +137,11 @@
         },
         {
           "file": "src/app/app.config.ts",
-          "hash": "5428614352870646528",
+          "hash": "10496557306432811410",
           "deps": [
             "npm:@angular/core",
-            "npm:@angular/router"
+            "npm:@angular/router",
+            "npm:@angular/platform-browser"
           ]
         },
         {
@@ -156,7 +161,7 @@
         },
         {
           "file": "src/index.html",
-          "hash": "12252831124753846225"
+          "hash": "16728641047510028007"
         },
         {
           "file": "src/main.ts",
@@ -167,7 +172,7 @@
         },
         {
           "file": "src/styles.scss",
-          "hash": "5195668842064076916"
+          "hash": "9525514396149276363"
         },
         {
           "file": "tsconfig.app.json",
