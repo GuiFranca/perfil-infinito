@@ -2,12 +2,196 @@
 
 
 Initial Chunk Files | Names         |  Raw Size
-styles.css          | styles        |  87.82 kB |
+styles.css          | styles        |  88.60 kB |
 polyfills.js        | polyfills     |  83.46 kB |
-main.js             | main          |  23.27 kB |
+main.js             | main          |   7.08 kB |
 
-                    | Initial Total | 194.55 kB
+                    | Initial Total | 179.14 kB
 
-Application bundle generation complete. [1.423 seconds]
+Application bundle generation complete. [1.619 seconds]
 Watch mode enabled. Watching for file changes...
   ➜  Local:   http://localhost:4200/
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names  | Raw Size
+styles.css          | styles | 88.70 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.120 seconds]
+HMR update sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.53 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.154 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.51 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.101 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.48 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.111 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.272 seconds]
+- Changes detected. Rebuilding...
+
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.103 seconds]
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names  | Raw Size
+styles.css          | styles | 88.59 kB |
+main.js             | main   |  7.12 kB |
+
+Unchanged output files: 1
+Application bundle generation complete. [0.121 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names  | Raw Size
+styles.css          | styles | 88.63 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.094 seconds]
+HMR update sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.05 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.201 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.05 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.104 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.05 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.066 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names  | Raw Size
+styles.css          | styles | 88.63 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.105 seconds]
+HMR update sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.34 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.107 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.36 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.25 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.110 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.092 seconds]
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names  | Raw Size
+styles.css          | styles | 88.77 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.064 seconds]
+HMR update sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.26 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.092 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.39 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.63 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.099 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.63 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.070 seconds]
+Page reload sent to client(s).
