@@ -195,3 +195,169 @@ main.js             | main  |  7.63 kB |
 Unchanged output files: 2
 Application bundle generation complete. [0.070 seconds]
 Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2552: Cannot find name 'constructor'. Did you mean 'MapConstructor'?[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.ts:17:2:
+[37m      17 │   [32mconstructor[37m() {}
+         ╵   [32m~~~~~~~~~~~[0m
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1441: Cannot start a function call in a type annotation.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.ts:17:13:
+[37m      17 │   constructor[32m([37m) {}
+         ╵              [32m^[0m
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1068: Unexpected token. A constructor, method, accessor, or property was expected.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.ts:17:14:
+[37m      17 │   constructor([32m)[37m {}
+         ╵               [32m^[0m
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1068: Unexpected token. A constructor, method, accessor, or property was expected.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.ts:17:16:
+[37m      17 │   constructor() [32m{[37m}
+         ╵                 [32m^[0m
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS2304: Cannot find name 'onSelectLevel'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.ts:19:2:
+[37m      19 │   [32monSelectLevel[37m() {
+         ╵   [32m~~~~~~~~~~~~~[0m
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1005: ';' expected.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.ts:19:18:
+[37m      19 │   onSelectLevel() [32m{[37m
+         ╵                   [32m^[0m
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1128: Declaration or statement expected.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.ts:23:0:
+[37m      23 │ [32m}[37m
+         ╵ [32m^[0m
+
+
+Application bundle generation failed. [0.170 seconds]
+- Changes detected. Rebuilding...
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Opening tag "button" not terminated.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.html:5:4:
+[37m      5 │     [32m<button mat-stroked-button (click)="selectLevel("FÁCI[37mL")">FÁC...
+        ╵     [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component HomeComponent.
+
+    src/app/components/home/home.component.ts:11:15:
+[37m      11 │   templateUrl: [32m'./home.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG5002: Unexpected closing tag "button". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.html:5:67:
+[37m      5 │ ... mat-stroked-button (click)="selectLevel("FÁCIL")">FÁC[32mIL</butto[37mn>
+        ╵                                                          [32m~~~~~~~~~[0m
+
+  Error occurs in the template of component HomeComponent.
+
+    src/app/components/home/home.component.ts:11:15:
+[37m      11 │   templateUrl: [32m'./home.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.321 seconds]
+- Changes detected. Rebuilding...
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'EASY' does not exist on type 'LEVEL'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.html:5:58:
+[37m      5 │ ...at-stroked-button (click)="selectLevel(level.[32mEASY[37m)">FÁCIL</button>
+        ╵                                                 [32m~~~~[0m
+
+  Error occurs in the template of component HomeComponent.
+
+    src/app/components/home/home.component.ts:11:15:
+[37m      11 │   templateUrl: [32m'./home.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.462 seconds]
+- Changes detected. Rebuilding...
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'EASY' does not exist on type 'LEVEL'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.html:5:58:
+[37m      5 │ ...at-stroked-button (click)="selectLevel(level.[32mEASY[37m)">FÁCIL</button>
+        ╵                                                 [32m~~~~[0m
+
+  Error occurs in the template of component HomeComponent.
+
+    src/app/components/home/home.component.ts:11:15:
+[37m      11 │   templateUrl: [32m'./home.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.211 seconds]
+- Changes detected. Rebuilding...
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'EASY' does not exist on type 'LEVEL'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.html:5:58:
+[37m      5 │ ...at-stroked-button (click)="selectLevel(level.[32mEASY[37m)">FÁCIL</button>
+        ╵                                                 [32m~~~~[0m
+
+  Error occurs in the template of component HomeComponent.
+
+    src/app/components/home/home.component.ts:11:15:
+[37m      11 │   templateUrl: [32m'./home.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.139 seconds]
+- Changes detected. Rebuilding...
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'EASY' does not exist on type 'LEVEL'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/home/home.component.html:5:58:
+[37m      5 │ ...at-stroked-button (click)="selectLevel(level.[32mEASY[37m)">FÁCIL</button>
+        ╵                                                 [32m~~~~[0m
+
+  Error occurs in the template of component HomeComponent.
+
+    src/app/components/home/home.component.ts:11:15:
+[37m      11 │   templateUrl: [32m'./home.component.html'[37m,
+         ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.123 seconds]
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  88.77 kB |
+polyfills.js        | polyfills     |  83.46 kB |
+main.js             | main          |   8.37 kB |
+
+                    | Initial Total | 180.60 kB
+
+Application bundle generation complete. [0.181 seconds]
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.32 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.126 seconds]
+Page reload sent to client(s).

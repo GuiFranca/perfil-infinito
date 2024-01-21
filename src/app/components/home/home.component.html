@@ -2,10 +2,10 @@
   <h1>Cartas do Perfil</h1>
   <p>Selecione o nivel de dificuldade para iniciar</p>
   <div class="levels">
-    <button mat-stroked-button>EASY</button>
-    <button mat-stroked-button>NORMAL</button>
-    <button mat-stroked-button>HARD</button>
-    <button mat-stroked-button>ALEATÓRIO</button>
+    <button mat-stroked-button (click)="selectLevel('easy')">FÁCIL</button>
+    <button mat-stroked-button (click)="selectLevel('medium')">NORMAL</button>
+    <button mat-stroked-button (click)="selectLevel('hard')">DIFÍCIL</button>
+    <button mat-stroked-button (click)="selectLevel('random')">ALEATÓRIO</button>
   </div>
 
 </div>

@@ -38,80 +38,84 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "src/app/components/home/home.component.ts",
-        "hash": "17180168969192486693"
-      },
-      {
         "file": "src/styles.scss",
         "hash": "3337005776492598928"
-      },
-      {
-        "file": "src/app/components/home/home.component.html",
-        "hash": "11027392527640684192"
-      },
-      {
-        "file": "core/navbar.component.ts",
-        "hash": "484247465904345753"
-      },
-      {
-        "file": "core/navbar.component.spec.ts",
-        "hash": "9171009014327282851"
-      },
-      {
-        "file": "core/navbar.component.scss",
-        "hash": "4055606894390288348"
       },
       {
         "file": "src/core/components/footer/footer.component.spec.ts",
         "hash": "2428470226009348103"
       },
       {
-        "file": "src/core/components/footer/footer.component.scss",
-        "hash": "6945551787318824057"
-      },
-      {
-        "file": "src/app/app.component.ts",
-        "hash": "1430287147771684902"
-      },
-      {
-        "file": "src/core/components/navbar/navbar.component.html",
-        "hash": "11886560081953504366"
-      },
-      {
-        "file": "src/app/components/home/home.component.scss",
-        "hash": "7361834185337972363"
-      },
-      {
-        "file": "src/core/components/navbar/navbar.component.spec.ts",
-        "hash": "9171009014327282851"
-      },
-      {
-        "file": "src/app/app.component.html",
-        "hash": "3232705043430148988"
-      },
-      {
-        "file": "src/core/components/footer/footer.component.ts",
-        "hash": "6283335237404892245"
+        "file": "core/navbar.component.scss",
+        "hash": "4055606894390288348"
       },
       {
         "file": "core/navbar.component.html",
         "hash": "1716074089752752735"
       },
       {
-        "file": "src/app/components/home/home.component.spec.ts",
-        "hash": "11942074063690565664"
+        "file": "src/app/app.component.ts",
+        "hash": "1430287147771684902"
+      },
+      {
+        "file": "src/app/app.component.html",
+        "hash": "3232705043430148988"
+      },
+      {
+        "file": "src/app/components/home/home.component.scss",
+        "hash": "7361834185337972363"
+      },
+      {
+        "file": "core/navbar.component.ts",
+        "hash": "484247465904345753"
+      },
+      {
+        "file": "src/app/components/home/home.component.ts",
+        "hash": "858749300313322483"
+      },
+      {
+        "file": "src/core/enums/level.enum.ts",
+        "hash": "15689873240315448771"
       },
       {
         "file": "src/core/components/footer/footer.component.html",
         "hash": "9990190275794818227"
       },
       {
-        "file": "src/core/components/navbar/navbar.component.scss",
-        "hash": "443227380233367544"
+        "file": "src/app/components/home/home.component.html",
+        "hash": "14195715394148747974"
+      },
+      {
+        "file": "src/core/components/navbar/navbar.component.html",
+        "hash": "11886560081953504366"
+      },
+      {
+        "file": "src/app/components/home/home.component.spec.ts",
+        "hash": "11942074063690565664"
+      },
+      {
+        "file": "src/core/components/footer/footer.component.ts",
+        "hash": "6283335237404892245"
       },
       {
         "file": "src/core/components/navbar/navbar.component.ts",
         "hash": "18058197268381179747"
+      },
+      {
+        "file": "src/core/components/navbar/navbar.component.scss",
+        "hash": "443227380233367544"
+      },
+      {
+        "file": "core/navbar.component.spec.ts",
+        "hash": "9171009014327282851"
+      },
+      {
+        "file": "src/core/components/navbar/navbar.component.spec.ts",
+        "hash": "9171009014327282851"
+      },
+      {
+        "file": "src/core/components/footer/footer.component.scss",
+        "hash": "6945551787318824057"
       }
     ],
     "projectFileMap": {
