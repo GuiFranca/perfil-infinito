@@ -1,0 +1,19 @@
+<div class="dicas-container">
+  <div class="header-card">
+    <h1>Categoria: {{ categoria }}</h1>
+    <h2>Tema: {{ tema }}</h2>
+  </div>
+
+  <div class="dicas-grid">
+    <div *ngFor="let dica of dicas; let i = index" class="dica-item">
+      <button mat-raised-button (click)="selecionarDica(i)">
+        {{ i + 1 }}
+      </button>
+    </div>
+  </div>
+
+  <div>
+    <button mat-stroked-button (click)="revelarResposta()">Gerar nova carta</button>
+  </div>
+</div>
+

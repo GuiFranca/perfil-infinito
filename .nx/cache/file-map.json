@@ -38,6 +38,34 @@
   "fileMap": {
     "nonProjectFiles": [
       {
+        "file": "src/app/app.routes.ts",
+        "hash": "5687093093010339288"
+      },
+      {
+        "file": "src/core/components/navbar/navbar.component.html",
+        "hash": "11886560081953504366"
+      },
+      {
+        "file": "src/index.html",
+        "hash": "2221587099970962186"
+      },
+      {
+        "file": "src/core/components/footer/footer.component.ts",
+        "hash": "6283335237404892245"
+      },
+      {
+        "file": "src/app/app.component.ts",
+        "hash": "1430287147771684902"
+      },
+      {
+        "file": "src/app/components/home/home.component.spec.ts",
+        "hash": "11942074063690565664"
+      },
+      {
+        "file": "src/core/components/navbar/navbar.component.ts",
+        "hash": "18058197268381179747"
+      },
+      {
         "file": "src/styles.scss",
         "hash": "3337005776492598928"
       },
@@ -46,72 +74,72 @@
         "hash": "2428470226009348103"
       },
       {
-        "file": "core/navbar.component.scss",
-        "hash": "4055606894390288348"
+        "file": "core/navbar.component.spec.ts",
+        "hash": "9171009014327282851"
       },
       {
-        "file": "core/navbar.component.html",
-        "hash": "1716074089752752735"
-      },
-      {
-        "file": "src/app/app.component.ts",
-        "hash": "1430287147771684902"
-      },
-      {
-        "file": "src/app/app.component.html",
-        "hash": "3232705043430148988"
-      },
-      {
-        "file": "src/app/components/home/home.component.scss",
-        "hash": "7361834185337972363"
-      },
-      {
-        "file": "core/navbar.component.ts",
-        "hash": "484247465904345753"
-      },
-      {
-        "file": "src/app/components/home/home.component.ts",
-        "hash": "858749300313322483"
+        "file": "src/app/components/card-selection/card-selection.component.spec.ts",
+        "hash": "14096990140490075465"
       },
       {
         "file": "src/core/enums/level.enum.ts",
         "hash": "15689873240315448771"
       },
       {
+        "file": "src/core/components/navbar/navbar.component.scss",
+        "hash": "443227380233367544"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "9257148307123537777"
+      },
+      {
+        "file": "src/app/components/card-selection/card-selection.component.ts",
+        "hash": "17650429118424654853"
+      },
+      {
+        "file": "src/app/components/card-selection/card-selection.component.html",
+        "hash": "14907417128375819313"
+      },
+      {
         "file": "src/core/components/footer/footer.component.html",
         "hash": "9990190275794818227"
+      },
+      {
+        "file": "src/app/components/card-selection/card-selection.component.scss",
+        "hash": "123249062203242314"
+      },
+      {
+        "file": "src/app/components/home/home.component.scss",
+        "hash": "7361834185337972363"
+      },
+      {
+        "file": "src/app/components/home/home.component.ts",
+        "hash": "858749300313322483"
       },
       {
         "file": "src/app/components/home/home.component.html",
         "hash": "14195715394148747974"
       },
       {
-        "file": "src/core/components/navbar/navbar.component.html",
-        "hash": "11886560081953504366"
+        "file": "core/navbar.component.scss",
+        "hash": "4055606894390288348"
       },
       {
-        "file": "src/app/components/home/home.component.spec.ts",
-        "hash": "11942074063690565664"
+        "file": "core/navbar.component.ts",
+        "hash": "484247465904345753"
       },
       {
-        "file": "src/core/components/footer/footer.component.ts",
-        "hash": "6283335237404892245"
-      },
-      {
-        "file": "src/core/components/navbar/navbar.component.ts",
-        "hash": "18058197268381179747"
-      },
-      {
-        "file": "src/core/components/navbar/navbar.component.scss",
-        "hash": "443227380233367544"
-      },
-      {
-        "file": "core/navbar.component.spec.ts",
-        "hash": "9171009014327282851"
+        "file": "core/navbar.component.html",
+        "hash": "1716074089752752735"
       },
       {
         "file": "src/core/components/navbar/navbar.component.spec.ts",
         "hash": "9171009014327282851"
+      },
+      {
+        "file": "src/app/app.component.html",
+        "hash": "2144982259131768613"
       },
       {
         "file": "src/core/components/footer/footer.component.scss",
